@@ -1,0 +1,98 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I am Tristan CHARRIN, young developer in computer science, I started with a bts in digital system that I have not finished. I made the decision to resume my studies via the site OpenClassroom because I like development and I like to see the possibilities that we have with technologies. And here is my portfolio ! Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Kasa",
+        "startDate": "2024",
+        "description": "Creation of a website for real estate rentals named Kasa. Use of React, React Router and Node.Js",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "https://github.com/Trawimss/PROJET5.git",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          }
+        ]
+      },
+      {
+        "title": "Booki",
+        "startDate": "2024",
+        "description": "Creation of a travel agency homepage in HTML/CSS.",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com/Trawimss/Projet-2.git",
+        "technologies": [
+          
+            {
+              "class": "devicon-html5-plain",
+              "name": "HTML"
+            },
+            
+            {
+              "class": "devicon-css3-plain",
+              "name": "CSS"
+            }
+   
+        ]
+      },
+      {
+        "title": "Mon Vieux Grimmoire",
+        "startDate": "2024",
+        "description": "Creation of the backend for a book rating site called Mon Vieux Grimmoire. ",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com/Trawimss/Projet-6.git",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Node.js"
+          },
+          
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+
+        ]
+      }
+    ],
+ "experience": [
+   
+      {
+        "company": "Dematic",
+        "title": "Developer Junior",
+        "years": "09.2018 - 09.2020",
+        "mainTech": [
+          "C++ et  Python"
+        ],
+        "technologies": [
+          "JavaScript",
+          "C++",
+          "PHP",
+          "Html",
+          "DHTMLX Gantt"
+        ]
+      }
+    ]
+  }
